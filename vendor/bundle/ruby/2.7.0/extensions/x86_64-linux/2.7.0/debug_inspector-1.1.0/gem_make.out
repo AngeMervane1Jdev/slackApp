@@ -1,0 +1,15 @@
+current directory: /home/ange/Desktop/applicationDequipe/diveintopost/vendor/bundle/ruby/2.7.0/gems/debug_inspector-1.1.0/ext/debug_inspector
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210714-53215-1121lsg.rb extconf.rb
+creating Makefile
+
+current directory: /home/ange/Desktop/applicationDequipe/diveintopost/vendor/bundle/ruby/2.7.0/gems/debug_inspector-1.1.0/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/ange/Desktop/applicationDequipe/diveintopost/vendor/bundle/ruby/2.7.0/gems/debug_inspector-1.1.0/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/ange/Desktop/applicationDequipe/diveintopost/vendor/bundle/ruby/2.7.0/gems/debug_inspector-1.1.0/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20210714-53215-1etkdyu

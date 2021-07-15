@@ -1,0 +1,1800 @@
+2021-07-14 21:24:46[WARN] user: ange
+GET /
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2830199106609771687_27200'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2830199106609771687_27200'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___1618618575860081163_27160'
+
+2021-07-14 22:14:47[WARN] user: ange
+GET /articles/1
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_26800'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_26800'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_26680'
+
+2021-07-14 22:15:05[WARN] user: ange
+GET /agendas/2/articles/new
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_27080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_27080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_27040'
+
+2021-07-14 22:16:19[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_27380'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_27380'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_27340'
+
+2021-07-14 22:19:47[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb___33358805793332879_27580'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb___33358805793332879_27580'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb___33358805793332879_27580'
+
+2021-07-14 22:19:47[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_27640'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_27640'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_27600'
+
+2021-07-14 22:19:52[WARN] user: ange
+GET /agendas/9/articles/new
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_27860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_27860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_27820'
+
+2021-07-14 22:19:59[WARN] user: ange
+GET /articles/18
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_28080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_28080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_28040'
+
+2021-07-14 22:20:29[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb___33358805793332879_28200'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb___33358805793332879_28200'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb___33358805793332879_28200'
+
+2021-07-14 22:20:29[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_28260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_28260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_28220'
+
+2021-07-14 22:25:06[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb___33358805793332879_28380'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb___33358805793332879_28380'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb___33358805793332879_28380'
+
+2021-07-14 22:25:06[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_28440'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_28440'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_28400'
+
+2021-07-14 22:25:11[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb___33358805793332879_28560'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb___33358805793332879_28560'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb___33358805793332879_28560'
+
+2021-07-14 22:25:11[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_28620'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_28620'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_28580'
+
+2021-07-14 22:25:26[WARN] user: ange
+GET /agendas/9/articles/new
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_28800'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_28800'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_28760'
+
+2021-07-14 22:26:05[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb__2711645600788285566_28900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb__2711645600788285566_28900'
+
+2021-07-14 22:26:05[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb__2711645600788285566_28900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb__2711645600788285566_28900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb__2711645600788285566_28900'
+
+2021-07-14 22:26:05[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_28960'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_28960'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_28920'
+
+2021-07-14 22:27:18[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/show.html.erb:43:in `block in _app_views_teams_show_html_erb__2780531362623096154_29120'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/show.html.erb:40:in `_app_views_teams_show_html_erb__2780531362623096154_29120'
+
+2021-07-14 22:27:18[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_29180'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_29180'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_29140'
+
+2021-07-14 22:27:22[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/show.html.erb:43:in `block in _app_views_teams_show_html_erb__2780531362623096154_29360'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/show.html.erb:40:in `_app_views_teams_show_html_erb__2780531362623096154_29360'
+
+2021-07-14 22:27:22[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2207658896945060923_29420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2207658896945060923_29420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3191781446898147881_29380'
+
+2021-07-14 22:47:38[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb___770838888686721535_26300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb___770838888686721535_26300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb___770838888686721535_26300'
+
+2021-07-14 22:47:38[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb__1032930455038253200_26540'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb__1032930455038253200_26540'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__2416200169220451576_26500'
+
+2021-07-14 22:48:32[WARN] user: ange
+GET /articles/18
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb__1032930455038253200_26820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb__1032930455038253200_26820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__2416200169220451576_26780'
+
+2021-07-15 12:46:07[WARN] user: ange
+GET /
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_26440'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_26440'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_26400'
+
+2021-07-15 12:46:15[WARN] user: ange
+GET /articles/1
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_26820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_26820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_26780'
+
+2021-07-15 12:46:25[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_27400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_27400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_27400'
+
+2021-07-15 12:46:25[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_27460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_27460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_27420'
+
+2021-07-15 12:46:29[WARN] user: ange
+GET /articles/2
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_27660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_27660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_27620'
+
+2021-07-15 12:47:02[WARN] user: ange
+GET /articles/2/edit
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_27980'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_27980'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_27940'
+
+2021-07-15 12:49:02[WARN] user: ange
+GET /articles/2/edit
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_28160'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_28160'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_28120'
+
+2021-07-15 12:49:10[WARN] user: ange
+GET /articles/2/edit
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_28340'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_28340'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_28300'
+
+2021-07-15 12:49:33[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_28440'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_28440'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_28440'
+
+2021-07-15 12:49:33[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_28500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_28500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_28460'
+
+2021-07-15 12:49:52[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_28600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_28600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_28600'
+
+2021-07-15 12:49:52[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_28660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_28660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_28620'
+
+2021-07-15 12:49:53[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_28760'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_28760'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_28760'
+
+2021-07-15 12:49:53[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_28820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_28820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_28780'
+
+2021-07-15 12:49:53[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_28920'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_28920'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_28920'
+
+2021-07-15 12:49:53[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_28980'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_28980'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_28940'
+
+2021-07-15 12:49:54[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_29080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_29080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_29080'
+
+2021-07-15 12:49:54[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_29140'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_29140'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_29100'
+
+2021-07-15 12:49:55[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_29240'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_29240'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_29240'
+
+2021-07-15 12:49:55[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_29300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_29300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_29260'
+
+2021-07-15 12:49:56[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_29400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_29400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_29400'
+
+2021-07-15 12:49:56[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_29460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_29460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_29420'
+
+2021-07-15 12:49:56[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_29560'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_29560'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_29560'
+
+2021-07-15 12:49:56[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_29620'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_29620'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_29580'
+
+2021-07-15 12:50:12[WARN] user: ange
+GET /articles/1
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_29820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_29820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_29780'
+
+2021-07-15 12:50:26[WARN] user: ange
+GET /articles/1
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_30020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_30020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_29980'
+
+2021-07-15 12:50:32[WARN] user: ange
+GET /articles/1
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_30220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_30220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_30180'
+
+2021-07-15 12:50:37[WARN] user: ange
+GET /articles/1
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_30420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_30420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_30380'
+
+2021-07-15 12:50:49[WARN] user: ange
+GET /articles/1/edit
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_30720'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_30720'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_30680'
+
+2021-07-15 12:51:04[WARN] user: ange
+GET /articles/1
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_30920'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_30920'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_30880'
+
+2021-07-15 12:51:09[WARN] user: ange
+GET /articles/2
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_31120'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_31120'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_31080'
+
+2021-07-15 12:51:36[WARN] user: ange
+POST /articles/2/comments
+USE eager loading detected
+  Comment => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/comments/_index.html.erb:6:in `block in _app_views_comments__index_html_erb___2765348442849031272_31320'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/comments/_index.html.erb:2:in `_app_views_comments__index_html_erb___2765348442849031272_31320'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/comments/index.js.erb:1:in `_app_views_comments_index_js_erb___1176243671925889893_31300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/controllers/comments_controller.rb:8:in `block (2 levels) in create'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/controllers/comments_controller.rb:6:in `create'
+
+2021-07-15 12:51:47[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_31400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_31400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_31400'
+
+2021-07-15 12:51:47[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_31460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_31460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_31420'
+
+2021-07-15 12:51:54[WARN] user: ange
+GET /articles/1
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_31660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_31660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_31620'
+
+2021-07-15 12:52:02[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_31780'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_31780'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_31780'
+
+2021-07-15 12:52:02[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_31840'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_31840'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_31800'
+
+2021-07-15 12:52:42[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:18:in `block (2 levels) in _app_views_teams_dashboard_html_erb__3998585389459879529_31940'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:16:in `block in _app_views_teams_dashboard_html_erb__3998585389459879529_31940'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/dashboard.html.erb:12:in `_app_views_teams_dashboard_html_erb__3998585389459879529_31940'
+
+2021-07-15 12:52:42[WARN] user: ange
+GET /dashboard
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_32000'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_32000'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_31960'
+
+2021-07-15 12:52:49[WARN] user: ange
+GET /agendas/1/articles/new
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_32180'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_32180'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_32140'
+
+2021-07-15 12:53:27[WARN] user: ange
+GET /articles/19
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_32400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_32400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_32360'
+
+2021-07-15 12:53:52[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___4406387206182343572_32500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___4406387206182343572_32500'
+
+2021-07-15 12:53:52[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___4406387206182343572_32500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___4406387206182343572_32500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___4406387206182343572_32500'
+
+2021-07-15 12:53:52[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_32560'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_32560'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_32520'
+
+2021-07-15 12:54:36[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/show.html.erb:43:in `block in _app_views_teams_show_html_erb___4594951307067943323_32660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/teams/show.html.erb:40:in `_app_views_teams_show_html_erb___4594951307067943323_32660'
+
+2021-07-15 12:54:36[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_32720'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_32720'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_32680'
+
+2021-07-15 13:08:43[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___4406387206182343572_42020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___4406387206182343572_42020'
+
+2021-07-15 13:08:43[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___4406387206182343572_42020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___4406387206182343572_42020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___4406387206182343572_42020'
+
+2021-07-15 13:08:43[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_42160'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_42160'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_42120'
+
+2021-07-15 13:09:22[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___4406387206182343572_42260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___4406387206182343572_42260'
+
+2021-07-15 13:09:22[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___4406387206182343572_42260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___4406387206182343572_42260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___4406387206182343572_42260'
+
+2021-07-15 13:09:22[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_42320'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_42320'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_42280'
+
+2021-07-15 13:09:37[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___4406387206182343572_42420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___4406387206182343572_42420'
+
+2021-07-15 13:09:37[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___4406387206182343572_42420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___4406387206182343572_42420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___4406387206182343572_42420'
+
+2021-07-15 13:09:37[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___596163005552505752_42480'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___596163005552505752_42480'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___379185146388557136_42440'
+
+2021-07-15 14:41:21[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___2223444439827246620_26260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___2223444439827246620_26260'
+
+2021-07-15 14:41:21[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___2223444439827246620_26260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___2223444439827246620_26260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___2223444439827246620_26260'
+
+2021-07-15 14:41:21[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2252555840544122848_26500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2252555840544122848_26500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3376322023641319808_26460'
+
+2021-07-15 14:42:21[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___2223444439827246620_26600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___2223444439827246620_26600'
+
+2021-07-15 14:42:21[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___2223444439827246620_26600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___2223444439827246620_26600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___2223444439827246620_26600'
+
+2021-07-15 14:42:21[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___2252555840544122848_26660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___2252555840544122848_26660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___3376322023641319808_26620'
+
+2021-07-15 14:52:27[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_26260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_26260'
+
+2021-07-15 14:52:27[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_26260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_26260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_26260'
+
+2021-07-15 14:52:27[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_26500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_26500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_26460'
+
+2021-07-15 14:52:52[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_26640'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_26640'
+
+2021-07-15 14:52:52[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_26640'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_26640'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_26640'
+
+2021-07-15 14:52:52[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_26700'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_26700'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_26660'
+
+2021-07-15 14:53:09[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_26840'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_26840'
+
+2021-07-15 14:53:09[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_26840'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_26840'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_26840'
+
+2021-07-15 14:53:09[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_26900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_26900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_26860'
+
+2021-07-15 14:53:24[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_27040'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27040'
+
+2021-07-15 14:53:24[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_27040'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_27040'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27040'
+
+2021-07-15 14:53:24[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_27100'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_27100'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_27060'
+
+2021-07-15 15:15:54[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_27220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27220'
+
+2021-07-15 15:15:54[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_27220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_27220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27220'
+
+2021-07-15 15:15:54[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_27280'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_27280'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_27240'
+
+2021-07-15 15:17:57[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_27380'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27380'
+
+2021-07-15 15:17:57[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_27380'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_27380'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27380'
+
+2021-07-15 15:17:57[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_27440'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_27440'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_27400'
+
+2021-07-15 15:18:32[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_27540'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27540'
+
+2021-07-15 15:18:32[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_27540'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_27540'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27540'
+
+2021-07-15 15:18:32[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_27600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_27600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_27560'
+
+2021-07-15 15:19:17[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_27740'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27740'
+
+2021-07-15 15:19:17[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_27740'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_27740'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27740'
+
+2021-07-15 15:19:17[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_27800'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_27800'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_27760'
+
+2021-07-15 15:20:01[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_27900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27900'
+
+2021-07-15 15:20:01[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_27900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_27900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_27900'
+
+2021-07-15 15:20:01[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_27960'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_27960'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_27920'
+
+2021-07-15 15:33:07[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_28080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_28080'
+
+2021-07-15 15:33:07[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_28080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_28080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_28080'
+
+2021-07-15 15:33:07[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_28140'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_28140'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_28100'
+
+2021-07-15 15:33:24[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_28240'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_28240'
+
+2021-07-15 15:33:24[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_28240'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_28240'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_28240'
+
+2021-07-15 15:33:24[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_28300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_28300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_28260'
+
+2021-07-15 15:33:34[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:team]
+  Add to your query: .includes([:team])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:38:in `block in _app_views_users_show_html_erb___3766151061161973975_28400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_28400'
+
+2021-07-15 15:33:34[WARN] user: ange
+GET /user
+USE eager loading detected
+  Article => [:agenda]
+  Add to your query: .includes([:agenda])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:42:in `block (2 levels) in _app_views_users_show_html_erb___3766151061161973975_28400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:40:in `block in _app_views_users_show_html_erb___3766151061161973975_28400'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/users/show.html.erb:36:in `_app_views_users_show_html_erb___3766151061161973975_28400'
+
+2021-07-15 15:33:34[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_28460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_28460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_28420'
+
+2021-07-15 15:34:12[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_28720'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_28720'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_28680'
+
+2021-07-15 15:35:21[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:42:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_29260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_29260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_29220'
+
+2021-07-15 15:35:38[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_29460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_29460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_29420'
+
+2021-07-15 15:37:06[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_29660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_29660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_29620'
+
+2021-07-15 15:37:36[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_29860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_29860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_29820'
+
+2021-07-15 15:37:45[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_30060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_30060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_30020'
+
+2021-07-15 15:38:37[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_30260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_30260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_30220'
+
+2021-07-15 15:38:57[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_30460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_30460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_30420'
+
+2021-07-15 15:39:26[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_30660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_30660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_30620'
+
+2021-07-15 15:39:42[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:42:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_30860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_30860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_30820'
+
+2021-07-15 15:40:41[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_31060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_31060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_31020'
+
+2021-07-15 15:41:29[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_31260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_31260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_31220'
+
+2021-07-15 15:41:47[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_31460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_31460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_31420'
+
+2021-07-15 15:41:56[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_31660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_31660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_31620'
+
+2021-07-15 15:45:46[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:50:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_31860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_31860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_31820'
+
+2021-07-15 15:46:06[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:50:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_32060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_32060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_32020'
+
+2021-07-15 15:46:24[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:50:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_32260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_32260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_32220'
+
+2021-07-15 15:47:56[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_32460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_32460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_32420'
+
+2021-07-15 15:48:16[WARN] user: ange
+GET /articles/17?method=delete
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_32660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_32660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_32620'
+
+2021-07-15 15:48:33[WARN] user: ange
+GET /articles/17?method=delete
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_32860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_32860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_32820'
+
+2021-07-15 15:48:40[WARN] user: ange
+GET /articles/17?method=delete
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_33060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_33060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_33020'
+
+2021-07-15 15:48:49[WARN] user: ange
+GET /articles/17?method=delete
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_33260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_33260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_33220'
+
+2021-07-15 15:48:51[WARN] user: ange
+GET /articles/17?method=delete
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_33460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_33460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_33420'
+
+2021-07-15 15:48:56[WARN] user: ange
+GET /articles/17?method=delete
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_33660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_33660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_33620'
+
+2021-07-15 15:49:29[WARN] user: ange
+GET /articles/17?method=delete
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_34220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_34220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_34180'
+
+2021-07-15 16:01:14[WARN] user: ange
+GET /
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:45:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_53180'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_53180'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_53140'
+
+2021-07-15 16:02:56[WARN] user: ange
+GET /
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:45:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_53340'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_53340'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_53300'
+
+2021-07-15 16:03:06[WARN] user: ange
+GET /
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:45:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_53500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_53500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_53460'
+
+2021-07-15 16:04:04[WARN] user: ange
+GET /
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_53660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_53660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_53620'
+
+2021-07-15 16:04:21[WARN] user: ange
+GET /articles/4
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_53900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_53900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_53860'
+
+2021-07-15 16:04:25[WARN] user: ange
+GET /articles/3
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_54100'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_54100'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_54060'
+
+2021-07-15 16:04:27[WARN] user: ange
+GET /articles/17
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___4357306721623923130_54300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___4357306721623923130_54300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__720413455566880885_54260'
+
+2021-07-15 18:36:02[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_92860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_92860'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_92820'
+
+2021-07-15 18:39:44[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_103020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_103020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_102980'
+
+2021-07-15 18:42:27[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_112700'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_112700'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_112660'
+
+2021-07-15 18:45:25[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_114020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_114020'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_113980'
+
+2021-07-15 18:45:29[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:43:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_114300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_114300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_114260'
+
+2021-07-15 18:48:57[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:52:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_114600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_114600'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_114560'
+
+2021-07-15 18:49:59[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_114760'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_114760'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_114720'
+
+2021-07-15 18:50:19[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_114920'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_114920'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_114880'
+
+2021-07-15 18:51:01[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_115080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_115080'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_115040'
+
+2021-07-15 18:51:12[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_115340'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_115340'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_115300'
+
+2021-07-15 18:51:41[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_115500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_115500'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_115460'
+
+2021-07-15 18:51:54[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_115660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_115660'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_115620'
+
+2021-07-15 18:53:58[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_115820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_115820'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_115780'
+
+2021-07-15 18:54:10[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_115980'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_115980'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_115940'
+
+2021-07-15 18:55:47[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_116140'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_116140'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_116100'
+
+2021-07-15 18:55:57[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_116300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_116300'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_116260'
+
+2021-07-15 18:56:12[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_116460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_116460'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_116420'
+
+2021-07-15 18:56:34[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_116620'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_116620'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_116580'
+
+2021-07-15 18:56:53[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_116780'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_116780'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_116740'
+
+2021-07-15 18:57:11[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_116940'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_116940'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_116900'
+
+2021-07-15 18:57:21[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_117100'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_117100'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_117060'
+
+2021-07-15 18:57:39[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_117260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_117260'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_117220'
+
+2021-07-15 18:57:48[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_117420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_117420'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_117380'
+
+2021-07-15 18:59:56[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_117580'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_117580'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_117540'
+
+2021-07-15 19:00:14[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_117740'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_117740'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_117700'
+
+2021-07-15 19:00:55[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_117900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_117900'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_117860'
+
+2021-07-15 19:01:07[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_118060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_118060'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_118020'
+
+2021-07-15 19:01:35[WARN] user: ange
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:49:in `block in _app_views_shared_layout__sidebar_html_erb___718504202852010204_118220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_118220'
+  /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_118180'
+

@@ -1,0 +1,15 @@
+current directory: /home/ange/Desktop/applicationDequipe/diveintopost/vendor/bundle/ruby/2.7.0/gems/binding_ninja-0.2.3/ext/binding_ninja
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210714-53215-1e2vlr9.rb extconf.rb
+creating Makefile
+
+current directory: /home/ange/Desktop/applicationDequipe/diveintopost/vendor/bundle/ruby/2.7.0/gems/binding_ninja-0.2.3/ext/binding_ninja
+make "DESTDIR=" clean
+
+current directory: /home/ange/Desktop/applicationDequipe/diveintopost/vendor/bundle/ruby/2.7.0/gems/binding_ninja-0.2.3/ext/binding_ninja
+make "DESTDIR="
+compiling binding_ninja.c
+linking shared-object binding_ninja/binding_ninja.so
+
+current directory: /home/ange/Desktop/applicationDequipe/diveintopost/vendor/bundle/ruby/2.7.0/gems/binding_ninja-0.2.3/ext/binding_ninja
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 binding_ninja.so ./.gem.20210714-53215-1acdhr2/binding_ninja
