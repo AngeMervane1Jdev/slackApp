@@ -47,6 +47,24 @@ class TeamsController < ApplicationController
     @team = current_user.keep_team_id ? Team.find(current_user.keep_team_id) : current_user.teams.first
   end
 
+  def leave_rights
+    redirect_to team_path
+    @user=current_user
+    @toUser=User.find(params[:assign].to_i)
+    @team=Team.find(params[:id])
+    
+    if @user.id==@team.owner_id
+  
+    @toUser=User.find(params[:assign].to_i)
+    @team=Team.find(params[:id])
+    @team.update(owner_id:@toUser.id)
+    @toUser.update(keep_team_id:@team.id)
+    @user.update(keep_team_id: nil)
+    
+    end
+  
+  end
+
   private
 
   def set_team
