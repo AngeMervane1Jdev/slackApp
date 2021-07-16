@@ -15,7 +15,11 @@ class TeamsController < ApplicationController
     @team = Team.new
   end
 
-  def edit; end
+  def edit
+    unless current_user.id==@team.owner_id
+      redirect_to team_path
+    end 
+   end
 
   def create
     @team = Team.new(team_params)
@@ -28,6 +32,25 @@ class TeamsController < ApplicationController
       render :new
     end
   end
+
+  def leave_rights
+    redirect_to team_path
+    @user=current_user
+    @toUser=User.find(params[:assign].to_i)
+    @team=Team.find(params[:id])
+    
+    if @user.id==@team.owner_id
+  
+    @toUser=User.find(params[:assign].to_i)
+    @team=Team.find(params[:id])
+    @team.update(owner_id:@toUser.id)
+    @toUser.update(keep_team_id:@team.id)
+    @user.update(keep_team_id: nil)
+    
+    end
+  
+  end
+  
 
   def update
     if @team.update(team_params)

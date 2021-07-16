@@ -8,7 +8,7 @@ Rails.application.routes.draw do
     passwords: 'users/passwords'
   }
   resource :user
-  
+  get '/send_rights/:id/to/:assign', to: 'teams#leave_rights', as: 'send_rights'
   resources :teams do
     resources :assigns, only: %w(create destroy)
     resources :agendas, shallow: true do

@@ -1798,3 +1798,183 @@ Call stack
   /home/ange/Desktop/applicationDequipe/diveintopost/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___718504202852010204_118220'
   /home/ange/Desktop/applicationDequipe/diveintopost/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1508171061762023914_118180'
 
+2021-07-16 10:05:50[WARN] user: ange
+GET /teams/1
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:47:in `block in _app_views_teams_show_html_erb__1373755510089230971_26740'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:44:in `_app_views_teams_show_html_erb__1373755510089230971_26740'
+
+2021-07-16 10:06:26[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:47:in `block in _app_views_teams_show_html_erb__1373755510089230971_27320'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:44:in `_app_views_teams_show_html_erb__1373755510089230971_27320'
+
+2021-07-16 10:09:11[WARN] user: ange
+GET /teams/1
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:47:in `block in _app_views_teams_show_html_erb___2863642390468065139_26880'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:44:in `_app_views_teams_show_html_erb___2863642390468065139_26880'
+
+2021-07-16 10:09:57[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:47:in `block in _app_views_teams_show_html_erb___2863642390468065139_27320'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:44:in `_app_views_teams_show_html_erb___2863642390468065139_27320'
+
+2021-07-16 10:18:20[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_26740'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_26740'
+
+2021-07-16 10:18:59[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_27380'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_27380'
+
+2021-07-16 10:19:01[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_27600'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_27600'
+
+2021-07-16 10:19:15[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_27780'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_27780'
+
+2021-07-16 10:19:16[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_28000'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_28000'
+
+2021-07-16 10:19:17[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_28180'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_28180'
+
+2021-07-16 10:19:19[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_28360'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_28360'
+
+2021-07-16 10:19:36[WARN] user: ange
+GET /teams/1
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_28880'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_28880'
+
+2021-07-16 10:19:40[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_29620'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_29620'
+
+2021-07-16 10:19:47[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_30300'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_30300'
+
+2021-07-16 10:20:47[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_40400'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_40400'
+
+2021-07-16 10:23:13[WARN] user: ange
+GET /teams/1
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_61320'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_61320'
+
+2021-07-16 10:23:17[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_61500'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_61500'
+
+2021-07-16 10:23:19[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_61680'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_61680'
+
+2021-07-16 10:23:20[WARN] user: ange
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_61860'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_61860'
+
+2021-07-16 10:23:40[WARN] user: ange
+GET /teams/1
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:45:in `block in _app_views_teams_show_html_erb__2925791477927632546_62220'
+  /home/ange/Desktop/applicationDequipe/mypostapp/applicationSlackIssue1resolve/app/views/teams/show.html.erb:42:in `_app_views_teams_show_html_erb__2925791477927632546_62220'
+
