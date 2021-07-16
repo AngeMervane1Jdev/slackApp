@@ -54,12 +54,13 @@ class TeamsController < ApplicationController
     @team=Team.find(params[:id])
     
     if @user.id==@team.owner_id
-  
+    
     @toUser=User.find(params[:assign].to_i)
     @team=Team.find(params[:id])
     @team.update(owner_id:@toUser.id)
     @toUser.update(keep_team_id:@team.id)
     @user.update(keep_team_id: nil)
+    LeaveRightsMailer.with(the_happy: @toUser,team:@team).leave_rights_email.deliver
     
     end
   
